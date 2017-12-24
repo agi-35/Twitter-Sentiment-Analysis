@@ -1,0 +1,2 @@
+# Twitter-Sentiment-Analysis
+Sentiment Analysis is the process of ‘computationally’ determining whether a piece of writing is positive, negative or neutral. It’s also known as opinion mining, deriving the opinion or attitude of a speaker. In this, i used python to collect the sentiments and using module tweepy, I collected the data from twitter and predict the positivity, negativity and neutral reaction of the people around the world
